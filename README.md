@@ -10,7 +10,7 @@
 
 ```
 ➤ Install :
-➟ $ git clone https://github.com/Tenkahashi/blacksqli.git
+➟ $ git clone https://github.com/LUCIFERRRSATANNN/Red-Deep-SQLI.git
 ➟ $ cd reddeepsqli
 ➟ $ python reddeepSQLI.py
 
