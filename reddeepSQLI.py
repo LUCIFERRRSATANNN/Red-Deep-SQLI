@@ -1,12 +1,3 @@
-#!/usr/local/bin/python
-# This Python file uses the following encoding: utf-8
-# import pyfiglet module
-############################################
-######### DEV BY TENKAHASHI ################
-######### Twitter : @tenkahashi ############
-## Github : https://github.com/Tenkahashi ##
-############################################
-	
 import os,sys,random,time
 import pyfiglet 
 
